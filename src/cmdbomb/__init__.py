@@ -1,5 +1,5 @@
-from helper import get_key
-from cmd import *
+from cmdbomb.helper import get_key
+from cmdbomb.cmd import *
 from inspect import getmembers
 
 class Shell:
